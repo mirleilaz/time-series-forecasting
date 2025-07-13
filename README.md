@@ -1,4 +1,5 @@
 #### Project title: Time series forecasting
+#### Completion date: 05/05/2025
 #### Data source: [https://www.kaggle.com/datasets/ankurbajaj9/obesity-levels/data](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data?resource=download&select=salesmonthly.csv)
 #### Meaning of each column (drug groups):
 - M01AB - Acetic acid derivatives and related substances
